@@ -12,7 +12,7 @@ Transforming raw data into powerful insights with *Python, SQL, Excel*.
 - 🎓 B.E. Artificial Intelligence, MKCE (2023–2027), CGPA: 7.5  
 - 📈 Intern @ codebind technologies 
 - 📊 Skilled in Python, Sql, Excel, Java   
-- 📫 Email: *subramaiyansubramaniyan@gmail.com*
+- 📫 Email: *nadinsuryas15@gmail.com*
 
   
 <!-- Wave Animation -->
